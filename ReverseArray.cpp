@@ -23,8 +23,7 @@ void printArray(int arr[], int size)
  
 
 int main()
-{
-    int arr[] = {1, 2, 3, 4, 5, 6};
+{   int arr[] = {11, 22, 33, 44, 55, 66};
      
     int n = sizeof(arr) / sizeof(arr[0]);
  
